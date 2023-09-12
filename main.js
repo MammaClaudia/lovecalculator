@@ -5,5 +5,5 @@ var n = Math.random();
 
 n = n * 100;
 n = Math.floor(n) + 1;
-alert(n);
+alert("Your match is "+ n + "%");
 console.log(n);
